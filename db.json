@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Lots-o-Huggin'-Bear",
+      "image": "https://i.pinimg.com/originals/2d/a1/d6/2da1d63e2364a0231897cfb548a9e546.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Buttercup",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa6dacda-3f2c-49cb-81c5-3664f75187ff/ddhj4my-c339290f-8a35-4572-827b-180ebe04b0fb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZmE2ZGFjZGEtM2YyYy00OWNiLTgxYzUtMzY2NGY3NTE4N2ZmXC9kZGhqNG15LWMzMzkyOTBmLThhMzUtNDU3Mi04MjdiLTE4MGViZTA0YjBmYi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.5j0lC-f7n5s_YbpEUS0FIPid4NoKr3A-gubnah-QM6s",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
